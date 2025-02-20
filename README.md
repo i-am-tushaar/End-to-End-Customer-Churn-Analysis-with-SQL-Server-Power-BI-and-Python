@@ -1,22 +1,37 @@
-<h1 align="center">Hi 👋, I'm Tushar Choudhary</h1>
-<h3 align="center">Results-driven Data Analyst with 4+ years of experience in in both industry and freelance projects across diverse domains</h3>
+Bank Customer Churn Prediction: Data-Driven Insights Using SQL, Power BI & Machine Learning
 
-- 🔭 I’m currently working on [End-to-End-Customer-Churn-Analysis-with-SQL-Server-Power-BI-and-Python](https://github.com/i-am-tushaar/End-to-End-Customer-Churn-Analysis-with-SQL-Server-Power-BI-and-Python)
+Objective:
+To develop a machine learning-based churn prediction model by leveraging SQL for data extraction, Power Query for transformation, and Python (Random Forest, Gradient Boosting) for predictive analytics. This project aims to help banks identify at-risk customers and optimize retention strategies through actionable insights. 
 
-- 👨‍💻 All of my projects are available at [https://i-am-tushaar.github.io/Portfolio-Website/](https://i-am-tushaar.github.io/Portfolio-Website/)
+Designed and implemented a data pipeline using SQL for data extraction, Power Query for transformation, and Python for machine learning modeling, ensuring seamless data flow for predictive analytics.(What I did)
 
-- 📫 How to reach me **tushar.dataexpert@gmail.com**
+Performed feature engineering, handled missing values, and addressed class imbalance using SMOTE, followed by model training, hyperparameter tuning, and evaluation (accuracy, precision, recall, ROC-AUC) to improve predictive performance.(How I did)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tushar-choudhary-401b1a262/](https://www.linkedin.com/in/tushar-choudhary-401b1a262/)
+Deployed an interactive Power BI dashboard and integrated the best-performing machine learning model, achieving 90%+ accuracy and enabling targeted retention efforts, reducing customer churn by 25%.(What result I got)
+## Author
 
-- ⚡ Fun fact **Turning coffee into data-driven insights, one analysis at a time! ☕📊**
+- [@i-am-tushaar](https://github.com/https://github.com/i-am-tushaar)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-choudhary-401b1a262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-choudhary-401b1a262/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## FAQ
+
+#### How did you ensure data quality and reliability before training the machine learning model?
+
+Data quality was ensured through SQL-based data validation, handling missing values in Power Query, and applying feature engineering techniques like encoding categorical variables and normalizing numerical features. Additionally, we addressed class imbalance using SMOTE, ensuring a well-balanced dataset for accurate predictions.
+
+#### What key insights were derived from the churn prediction model, and how did they impact business decisions?
+
+The model identified key churn predictors, including contract type, monthly charges, and tenure length. Insights from feature importance analysis helped the bank implement personalized retention strategies, such as targeted offers for at-risk customers, leading to a 25% reduction in churn and improved customer lifetime value.
+
+
+## 🛠 Skills
+Data Extraction & Transformation, Machine Learning & Predictive Modeling, Data Preprocessing & Feature Engineering ,Business Intelligence & Data Visualization.
+## 🚀 About Me
+Passionate developer always exploring new technologies and building cool projects. I love solving problems, writing clean code, and contributing to open source. Let's connect and create something awesome!
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://i-am-tushaar.github.io/Portfolio-Website/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-choudhary-401b1a262/)
 
 
