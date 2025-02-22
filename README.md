@@ -1,4 +1,4 @@
-Bank Customer Churn Prediction: Data-Driven Insights Using SQL, Power BI & Machine Learning
+**Bank Customer Churn Prediction: Data-Driven Insights Using SQL, Power BI & Machine Learning**
 
 Objective:
 To develop a machine learning-based churn prediction model by leveraging SQL for data extraction, Power Query for transformation, and Python (Random Forest, Gradient Boosting) for predictive analytics. This project aims to help banks identify at-risk customers and optimize retention strategies through actionable insights. 
