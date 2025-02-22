@@ -27,7 +27,7 @@ The model identified key churn predictors, including contract type, monthly char
 ## 🛠 Skills
 Data Extraction & Transformation, Machine Learning & Predictive Modeling, Data Preprocessing & Feature Engineering ,Business Intelligence & Data Visualization.
 ## 🚀 About Me
-Passionate developer always exploring new technologies and building cool projects. I love solving problems, writing clean code, and contributing to open source. Let's connect and create something awesome!
+Passionate data analyst, always exploring new technologies and building cool projects. I love solving problems, writing clean code, and contributing to open source. Let's connect and create something awesome!
 
 
 ## 🔗 Links
